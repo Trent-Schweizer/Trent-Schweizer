@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trent Schwqeizer</h1>
-<h3 align="center">A Passionate Back End Developer from USA</h3>
+<h3 align="center">A Passionate Back End Developer from America</h3>
 
 - 🔭 I’m currently working on **AI Based Chat Bots**
 
